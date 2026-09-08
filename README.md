@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**tudo2212485/tudo2212485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Đỗ Trung Tú
 
-Here are some ideas to get you started:
+<p>
+  <strong>Software Engineer</strong> · Based in Vietnam
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  Crafting resilient backend systems and modern full-stack web experiences.
+</p>
+
+<p>
+  <a href="mailto:your.email@example.com">Email</a> •
+  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="https://tudo2212485.github.io">Website</a>
+</p>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24&height=100&section=header" width="100%" />
+
+</div>
+
+---
+
+### Focus & Core Stack
+
+```text
+Languages   :: C#, TypeScript, JavaScript, Python, SQL
+Backend     :: .NET Core / ASP.NET, Next.js, Node.js, RESTful APIs
+Frontend    :: React, Tailwind CSS, Next.js
+Databases   :: PostgreSQL, Supabase, SQLite
+Tools       :: Docker, Git, Visual Studio, Cursor
