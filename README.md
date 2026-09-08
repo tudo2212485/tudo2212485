@@ -1,29 +1,34 @@
 <div align="center">
 
-<!-- Pixel Art Banner Chill & Game -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" alt="Pixel Art Room" />
+  <!-- 1. Banner Pixel (Căn giữa) -->
+  <img src="path/to/pixel-banner.png" alt="Pixel Art Banner" width="100%" />
 
-# tu do.
-`software developer` • `c# / .net` • `web craft`
+  <br />
 
-<br/>
-
-<p>
-  <a href="mailto:dotu41080@gmail.com">email</a> /
-  <a href="https://linkedin.com">linkedin</a> /
-  <a href="https://tudo2212485.github.io">portfolio</a>
-</p>
+  <!-- 2. Bố cục hai cột cho phần nội dung -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <!-- Cột trái: Tên, Mô tả, Liên kết -->
+      <td width="55%" valign="top" style="text-align: left; padding-right: 20px;">
+        <br />
+        <!-- Dùng ảnh chụp tên phông Serif -->
+        <img src="path/to/name-serif.png" alt="tu do." width="200px" />
+        <br />
+        <p style="font-size: 1.1rem; color: #555;">software developer • c# / .net • web craft</p>
+        <p>
+          <a href="mailto:your.email@example.com" style="color: #0366d6;">email</a> /
+          <a href="https://linkedin.com" style="color: #0366d6;">linkedin</a> /
+          <a href="https://tudo2212485.github.io" style="color: #0366d6;">portfolio</a>
+        </p>
+      </td>
+      
+      <!-- Cột phải: Khung Quick Inventory -->
+      <td width="45%" valign="top">
+        <br />
+        <!-- Dùng ảnh chụp toàn bộ khung Quick Inventory -->
+        <img src="path/to/quick-inventory.png" alt="Quick Inventory List" width="100%" />
+      </td>
+    </tr>
+  </table>
 
 </div>
-
----
-
-### 👾 quick inventory
-
-```bash
-skills = {
-  "languages": ["C#", "TypeScript", "JavaScript", "Python", "SQL"],
-  "frameworks": [".NET Core", "ASP.NET", "React", "Next.js"],
-  "database": ["PostgreSQL", "Supabase", "SQLite"],
-  "environment": ["Docker", "Git", "VS Code", "Cursor"]
-}
