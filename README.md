@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Pixel hoạt họa coder chill (link hoạt động ổn định 100%) -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/banner1.gif" width="100%" alt="Pixel Banner" />
+<!-- Gọi trực tiếp file ảnh bạn vừa upload lên repo -->
+<img src="banner.png" width="100%" alt="Pixel Banner" />
 
 </div>
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-<!-- Tên phong cách Serif mềm mại qua SVG -->
+<!-- Chữ Serif mềm mại tự động sinh, không cần cắt ảnh -->
 <a href="https://github.com/tudo2212485">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=34&duration=1&pause=1000&color=24292F&width=200&height=45&lines=tu+do." alt="tu do." />
 </a>
@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  <a href="mailto:your.email@example.com">email</a> &nbsp;/&nbsp;
+  <a href="mailto:dotu41080@gmail.com">email</a> &nbsp;/&nbsp;
   <a href="https://linkedin.com">linkedin</a> &nbsp;/&nbsp;
   <a href="https://tudo2212485.github.io">portfolio</a>
 </p>
