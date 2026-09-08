@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Pixel Room Banner" />
+<!-- Banner Pixel hoạt họa coder chill (link hoạt động ổn định 100%) -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/banner1.gif" width="100%" alt="Pixel Banner" />
 
 </div>
 
@@ -8,13 +9,13 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 <br/>
 
-<!-- Chữ tu do. tạo bằng font Serif mềm mại sắc nét -->
+<!-- Tên phong cách Serif mềm mại qua SVG -->
 <a href="https://github.com/tudo2212485">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=38&duration=1&pause=1000&color=24292F&width=200&height=50&lines=tu+do." alt="tu do." />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=34&duration=1&pause=1000&color=24292F&width=200&height=45&lines=tu+do." alt="tu do." />
 </a>
 
 <p>
@@ -28,7 +29,7 @@
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
 ### 💡 Quick Inventory
 
